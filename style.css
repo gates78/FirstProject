@@ -1,0 +1,23 @@
+h1 {
+  color: pink;
+}
+
+p {
+  color: rgb(255, 94, 0);
+  font-size: 14px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#demo {
+  color: blue;
+  font-size: 18px;
+
+  font-style: oblique;
+  font-weight: bolder;
+}
+
+h3 {
+  color: blue;
+}
+
+/* Comment goes here */
